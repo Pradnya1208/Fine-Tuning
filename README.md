@@ -14,4 +14,4 @@
 </div>
 
 # <div align="center">Fine Tuning</div>
-<div align="center"><img src="https://github.com/Pradnya1208/Fine-Tuning/blob/main/readme_files/fine%20tune.gif?raw=true" width="110%"></div>
+<div align="center"><img src="https://github.com/Pradnya1208/Fine-Tuning/blob/main/readme_files/fine%20tune.gif?raw=true" width="100%"></div>
